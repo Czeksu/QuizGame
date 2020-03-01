@@ -1,3 +1,3 @@
 # QuizGame
-Project for programming classes
+Project for programming classes<br>
 You can check it up on <link>http://quizgame.ugu.pl</link>
